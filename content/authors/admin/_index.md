@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Surface science
+- Ultra-high vacuum science and technology
+- Fundamental heterogeneous catalysis- 
+- Fundamental materials growth and characterization
 
 education:
   courses:
