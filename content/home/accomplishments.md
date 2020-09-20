@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Honors and Awards"
 subtitle = ""
 
 # Date format
@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = " Iota Sigma Pi"
+  organization = "Iota Sigma Pi"
   organization_url = ""
   title = "Anna Louise Hoffman Award for Outstanding Achievement in Graduate Research"
   url = ""
@@ -28,6 +28,43 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Loyola University Chicago"
+  organization_url = ""
+  title = "The Dumbach Award for Excellence in Chemistry"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-08-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "AVS 64th International Symposium and Exhibition"
+  organization_url = ""
+  title = "Morton M. Traum Surface Science Student Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-11-01"
+  date_end = ""
+  description = ""
 
-
+[[item]]
+  organization = "AVS 64th International Symposium and Exhibition"
+  organization_url = ""
+  title = "Morton M. Traum Surface Science Student Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-11-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "AVS Prairie Chapter Symposium"
+  organization_url = ""
+  title = "Best Graduate Student Poster, Third place"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-09-01"
+  date_end = ""
+  description = ""
 +++
