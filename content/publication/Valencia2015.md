@@ -1,5 +1,5 @@
 ---
-title: "Preparation of scanning tunneling microscopy tips using pulsed alternating current etching"
+title: "Preparation of Scanning Tunneling Microscopy Tips Using Pulsed Alternating Current Etching"
 authors:
 - V.A. Valencia
 - A.A. Thaker
