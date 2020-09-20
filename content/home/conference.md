@@ -52,12 +52,12 @@ subtitle = ""
 +++
 
 ## Invited Oral Presentations
-Gordon Research Conference, Dynamics at Surfaces, Newport, RI, 2019 “STM Studies of the Growth and Suppression Mechanisms of Niobium Hydrides for Next Generation Superconducting RF Accelerators and Light Sources”
-Center for Bright Beams Annual Meeting, Cornell University, Ithaca, NY, 2019 “STM Studies of the Growth and Suppression Mechanisms of Niobium Hydrides for Next Generation Superconducting RF Accelerators and Light Sources”
-JFI Postdoctoral Seminar, The University of Chicago, Chicago, IL, 2019 “Atomic-Scale Growth Mechanism of Niobium Hydrides on Hydrogen Infused Nb(100)”
-Iota Sigma Pi – Aurum Iota Initiation, DePaul University, Chicago, IL 2019 “Understanding Surface Mediated Chemistry at the Atomic Scale: From Heterogeneous Catalysis to Particle Accelerator Technology”
-Loyola University Chicago, Department Seminar, Chicago, IL 2017 “Structural and Chemical Consequences of High Oxygen Coverages on Rh(111)
-Leiden Institute of Chemistry, Catalysis and Surface Chemistry, The Netherlands 2017 “High Oxygen Coverages on Ag(111) and Rh(111): Surface Structures and Reactivity”
+* Gordon Research Conference, Dynamics at Surfaces, Newport, RI, 2019 “STM Studies of the Growth and Suppression Mechanisms of Niobium Hydrides for Next Generation Superconducting RF Accelerators and Light Sources”
+* Center for Bright Beams Annual Meeting, Cornell University, Ithaca, NY, 2019 “STM Studies of the Growth and Suppression Mechanisms of Niobium Hydrides for Next Generation Superconducting RF Accelerators and Light Sources”
+* JFI Postdoctoral Seminar, The University of Chicago, Chicago, IL, 2019 “Atomic-Scale Growth Mechanism of Niobium Hydrides on Hydrogen Infused Nb(100)”
+* Iota Sigma Pi – Aurum Iota Initiation, DePaul University, Chicago, IL 2019 “Understanding Surface Mediated Chemistry at the Atomic Scale: From Heterogeneous Catalysis to Particle Accelerator Technology”
+* Loyola University Chicago, Department Seminar, Chicago, IL 2017 “Structural and Chemical Consequences of High Oxygen Coverages on Rh(111)
+* Leiden Institute of Chemistry, Catalysis and Surface Chemistry, The Netherlands 2017 “High Oxygen Coverages on Ag(111) and Rh(111): Surface Structures and Reactivity”
 ## Oral Presentations
 International Workshop on Nb3Sn SRF ’20, Virtual Workshop, 2020 “Elucidating Nb3Sn Growth Mechanisms: Fundamental Studies of the Surface Dynamics of Sn Adsorption, Lateral Diffusion, and Incorporation on (3×1)-O Nb(100)”
 AVS 66th International Symposium and Exhibition, Columbus, OH, 2019 “Atomic-Scale Growth Mechanisms of Niobium Hydrides on Hydrogen Infused Nb(100)”

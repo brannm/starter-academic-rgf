@@ -23,10 +23,10 @@
   url = "#publications"
   weight = 40
 
-#[[main]]
-#  name = "Conference Presentations"
-#  url = "#presentations"
-#  weight = 60
+[[main]]
+  name = "Conference Presentations"
+  url = "#conference"
+  weight = 60
 
 #[[main]]
 #  name = "Teaching"
