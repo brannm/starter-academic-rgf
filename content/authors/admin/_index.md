@@ -23,7 +23,7 @@ bio:
 interests:
 - Surface science
 - Ultra-high vacuum science and technology
-- Fundamental heterogeneous catalysis- 
+- Fundamental heterogeneous catalysis 
 - Fundamental materials growth and characterization
 
 education:
