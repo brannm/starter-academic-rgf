@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rgf33@uchicago.edu '
+  link: 'mailto:rgf33@uchicago.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rachael_farber
