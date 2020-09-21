@@ -49,9 +49,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rachael-farber-6138b5135/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=uPHRa04AAAAJ&gmla=AJsN-F4xDMGyskygsAwDpsQv_geBsyypNIhhweqShuXsNtss1Pc2vH5bWwLS-8sN2VApKRvbCpievHuTxGcONtPtllqw1hn62BcI9iezCup9r0tWVGbU4kM
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=uPHRa04AAAAJ&gmla=AJsN-F4xDMGyskygsAwDpsQv_geBsyypNIhhweqShuXsNtss1Pc2vH5bWwLS-8sN2VApKRvbCpievHuTxGcONtPtllqw1hn62BcI9iezCup9r0tWVGbU4kM
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
