@@ -52,7 +52,10 @@ subtitle = ""
 +++
 
 ## Invited Oral Presentations
-1. Gordon Research Conference, Dynamics at Surfaces, Newport, RI, 2019 “STM Studies of the Growth and Suppression Mechanisms of Niobium Hydrides for Next Generation Superconducting RF Accelerators and Light Sources”
+1. AVS 67th International Symposium and Exhibition, Charlotte, NC, 2021 “Towards a Mechanistic Understanding of Next-Generation Particle Accelerator Materials Growth: Nb Hydride Growth and Suppression and Nb3Sn Formation on (3×1)-O Nb(100)”
+2. Virtual MN-AVS Annual Fall Symposium, 2021, “Leadership, Development, and Career Opportunities for AVS Student and Early Career Professional Members”
+3. Loyola University Chicago, Department Seminar (Virtual), Chicago, IL 2020 “Understanding the Surface Chemistry of Next-Generation Particle Accelerator Materials: Oxidized Nb(100) as a Model System”
+4. Gordon Research Conference, Dynamics at Surfaces, Newport, RI, 2019 “STM Studies of the Growth and Suppression Mechanisms of Niobium Hydrides for Next Generation Superconducting RF Accelerators and Light Sources”
 2. Center for Bright Beams Annual Meeting, Cornell University, Ithaca, NY, 2019 “STM Studies of the Growth and Suppression Mechanisms of Niobium Hydrides for Next Generation Superconducting RF Accelerators and Light Sources”
 3. JFI Postdoctoral Seminar, The University of Chicago, Chicago, IL, 2019 “Atomic-Scale Growth Mechanism of Niobium Hydrides on Hydrogen Infused Nb(100)”
 4. Iota Sigma Pi – Aurum Iota Initiation, DePaul University, Chicago, IL 2019 “Understanding Surface Mediated Chemistry at the Atomic Scale: From Heterogeneous Catalysis to Particle Accelerator Technology”
@@ -69,6 +72,7 @@ subtitle = ""
 8. AVS 62nd International Symposium and Exhibition, San Jose, CA, 2015 “Submonolayer Water Adsorption on Stepped and Planar Pt Surfaces”
 9. American Chemical Society Regional Conference.  Grand Rapids, MI, 2015 “Atomic Oxygen on Ag(111) and Rh(111)”
 ## Poster Presentations
+1. 2021 International Conference on RF Superconductivity,Virtual Meeting, 2021 “Visualization of Sn Adsorption Behavior and Thermally Driven Diffusion Pathways on (3×1)-O Nb(100)”
 1. Gordon Research Seminar, Dynamics at Surfaces, Newport, RI, 2019 “STM Studies of the Growth and Suppression Mechanisms of Niobium Hydrides for Next Generation Superconducting RF Accelerators and Light Sources”
 2. AVS 65th International Symposium and Exhibition, Long Beach, CA, 2018; “Oxidation of Nb(100) and Kinetics of Surface to Bulk Transport and Extension to Nb3Sn”
 3. 2018 AVS Prairie Chapter Symposium, Chicago, IL, 2018 “Oxygen Dissolution on Nb(100) and In Situ Nb3Sn Growth Mechanisms”

@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "AVS 64th International Symposium and Exhibition"
   organization_url = ""
-  title = "Morton M. Traum Surface Science Student Award"
+  title = "Nellie Yeoh Whetten Award"
   url = ""
   certificate_url = ""
   date_start = "2017-11-01"
